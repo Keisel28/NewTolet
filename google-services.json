@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192987392331",
+    "project_id": "helloworld-7aa67",
+    "storage_bucket": "helloworld-7aa67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192987392331:android:04388abd70e04532cae0ce",
+        "android_client_info": {
+          "package_name": "com.zaaibo.tolet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192987392331-p44sh5a2u7mbnlf6ucj8o1s981a351hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2nE2xH-yoPVQ2eKGyhCR3l0zkYWnpcvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192987392331-p44sh5a2u7mbnlf6ucj8o1s981a351hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
