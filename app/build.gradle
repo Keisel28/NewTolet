@@ -100,3 +100,6 @@ apply plugin: 'io.fabric'
 repositories {
     maven { url 'https://maven.fabric.io/public' }
 }
+task wrapper(type: Wrapper){
+    gradleVersion = '7.2'
+}

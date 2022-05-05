@@ -9,22 +9,26 @@
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_home.xml" value="0.3875" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_main.xml" value="0.3875" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_notification.xml" value="0.3875" />
-        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_phone.xml" value="0.3875" />
-        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_phone_verify.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_phone.xml" value="0.33" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_phone_verify.xml" value="0.33" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_post_ad.xml" value="0.3875" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_posts_list.xml" value="0.3875" />
-        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_profile.xml" value="0.5" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_profile.xml" value="0.33" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_settings.xml" value="0.3875" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/activity_tenant.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/app_bar_home.xml" value="0.3875" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/content_home.xml" value="0.3875" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/dialog_maps.xml" value="0.3875" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/fragment_gps_listings.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/fragment_log_in.xml" value="0.21354166666666666" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
-        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/nav_header_home.xml" value="0.33" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/nav_header_home.xml" value="0.67" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/other_activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/profile_activity.xml" value="0.215625" />
-        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/menu/activity_home_drawer.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/recycler_item_notification_layout.xml" value="0.3828125" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/layout/recycler_item_post_layout.xml" value="0.3828125" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/menu/activity_home_drawer.xml" value="0.75" />
+        <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/menu/home.xml" value="0.3828125" />
         <entry key="..\:/Users/Keith Lemuel/Downloads/ToLet-master/ToLet-master/app/src/main/res/xml/network_security_config.xml" value="0.215625" />
       </map>
     </option>

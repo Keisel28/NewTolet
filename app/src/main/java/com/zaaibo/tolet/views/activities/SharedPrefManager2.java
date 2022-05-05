@@ -11,7 +11,7 @@ import androidx.fragment.app.FragmentTransaction;
 
 import com.zaaibo.tolet.views.activities.User;
 
-public class SharedPrefManager {
+public class SharedPrefManager2 {
 
     //the constants
     private static final String SHARED_PREF_NAME = "sharedprefmngr";
@@ -21,16 +21,16 @@ public class SharedPrefManager {
     private static final String KEY_ID = "keyid";
 
 
-    private static SharedPrefManager mInstance;
+    private static SharedPrefManager2 mInstance;
     private static Context mCtx;
 
-    private SharedPrefManager(Context context) {
+    private SharedPrefManager2(Context context) {
         mCtx = context;
     }
 
-    public static synchronized SharedPrefManager getInstance(Context context) {
+    public static synchronized SharedPrefManager2 getInstance(Context context) {
         if (mInstance == null) {
-            mInstance = new SharedPrefManager(context);
+            mInstance = new SharedPrefManager2(context);
         }
         return mInstance;
     }

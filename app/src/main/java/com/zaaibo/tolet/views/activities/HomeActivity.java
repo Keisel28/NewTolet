@@ -164,10 +164,12 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         View hView = navigationView.getHeaderView(0);
 
 
-        if (mUser != null) {
-            Picasso.get().load(mUser.getUserImageUrl()).into(((CircleImageView) hView.findViewById(R.id.nav_header_photo)));
-            ((TextView) hView.findViewById(R.id.user_email)).setText(mUser.getUserEmail());
-        }
+       // if (mUser != null) {
+           // Picasso.get().load(mUser.getUserImageUrl()).into(((CircleImageView) hView.findViewById(R.id.nav_header_photo)));
+            //((TextView) hView.findViewById(R.id.user_email)).setText(mUser.getUserEmail());
+            ((TextView) hView.findViewById(R.id.user_full_name)).setText(SharedPrefManager2.getInstance(HomeActivity.this).getUser().getUsername());
+
+       // }
 
         //====================================| Google Maps
         mapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map);

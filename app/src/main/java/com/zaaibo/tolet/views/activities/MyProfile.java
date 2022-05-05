@@ -25,7 +25,7 @@ public class MyProfile extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.profile_activity);
         ViewPager viewPagerP = findViewById(R.id.viewPagerP);
-        User user = SharedPrefManager.getInstance(getApplicationContext()).getUser();
+        User user = SharedPrefManager2.getInstance(getApplicationContext()).getUser();
         Log.d("WTF", String.valueOf(user.getUserType()));
         AuthenticationPagerAdapter pagerAdapter = new AuthenticationPagerAdapter(getSupportFragmentManager());
         pagerAdapter.addFragmet(new fragmentProfile());

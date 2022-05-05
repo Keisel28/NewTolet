@@ -176,7 +176,7 @@ public class Register extends Fragment {
                                 );
 
                         //storing the user in shared preferences
-                        SharedPrefManager.getInstance(getActivity().getApplicationContext()).userLogin(user);
+                        SharedPrefManager2.getInstance(getActivity().getApplicationContext()).userLogin(user);
 
                         //starting the profile activity
 

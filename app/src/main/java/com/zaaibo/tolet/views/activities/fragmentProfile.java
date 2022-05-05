@@ -47,7 +47,7 @@ public class fragmentProfile extends Fragment {
         View view = inflater.inflate(R.layout.fragment_profile,
                 container, false);
 
-            if (!SharedPrefManager.getInstance(getActivity().getApplicationContext()).isLoggedIn()) {
+            if (!SharedPrefManager2.getInstance(getActivity().getApplicationContext()).isLoggedIn()) {
                 getActivity().finish();
                 startActivity(new Intent(getActivity().getApplicationContext(), LogIn.class));
             }
@@ -59,7 +59,7 @@ public class fragmentProfile extends Fragment {
 
 
             //getting the current user
-            User user = SharedPrefManager.getInstance(getActivity().getApplicationContext()).getUser();
+            User user = SharedPrefManager2.getInstance(getActivity().getApplicationContext()).getUser();
 
             //setting the values to the textviews
             textViewId.setText(String.valueOf(user.getId()));
@@ -73,7 +73,7 @@ public class fragmentProfile extends Fragment {
                 @Override
                 public void onClick(View view) {
                     getActivity().finish();
-                    SharedPrefManager.getInstance(getActivity().getApplicationContext()).logout();
+                    SharedPrefManager2.getInstance(getActivity().getApplicationContext()).logout();
                 }
 
             });
